@@ -1,0 +1,115 @@
+{
+ "drawing": "Modules/UNSORTED/M924A/MECHANICAL/19xx - M924A - DOC - 924-03-003 - NQIES REVOVE ALL BURRS AND SHARP EDGES TOL.jpg",
+ "version": 1,
+ "trace": "_traces/1a5388398832517f.svg",
+ "sheet": {
+  "number": "924-03-003",
+  "title": "",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1285],
+  "mm": [431.8, 277.4],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 2.4, 430.5, 276.1],
+ "outlines": {
+  "line": {"rings": 865, "straight": {"n": 7004, "mm": 21132.8}, "curved": {"n": 1119, "mm": 1449.1}},
+  "text": {"rings": 150, "straight": {"n": 842, "mm": 801.0}, "curved": {"n": 293, "mm": 379.0}},
+  "tb": {"rings": 16, "straight": {"n": 125, "mm": 167.7}, "curved": {"n": 21, "mm": 24.4}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 3024, "straight": {"n": 4949, "mm": 11015.5}, "curved": {"n": 29, "mm": 47.5}},
+   "text": {"paths": 968, "straight": {"n": 1227, "mm": 638.9}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 282, "straight": {"n": 315, "mm": 391.6}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 347,
+  "orientation": {"horizontal": {"n": 1853, "mm": 7393.0}, "vertical": {"n": 1376, "mm": 2422.5}, "diagonal": {"n": 3262, "mm": 2230.5}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [211.2, 115.3], "r": 18.1, "kind": "arc", "span": 41, "from": ["centre line"], "start": 292},
+  {"c": [188.8, 128.6], "r": 16.2, "kind": "arc", "span": 45, "from": ["centre line"], "start": 294},
+  {"c": [307.3, 73.9], "r": 2.9, "kind": "arc", "span": 123, "from": ["centre line"], "start": 31},
+  {"c": [375.6, 14.9], "r": 1.2, "kind": "circle", "span": 322, "from": ["centre line"]},
+  {"c": [76.6, 245.6], "r": 0.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [86.6, 55.3], "r": 0.8, "kind": "arc", "span": 231, "from": ["centre line"], "start": 356},
+  {"c": [80.3, 190.1], "r": 0.7, "kind": "arc", "span": 173, "from": ["centre line"], "start": 6},
+  {"c": [49.4, 14.7], "r": 0.7, "kind": "arc", "span": 213, "from": ["centre line"], "start": 255},
+  {"c": [235.3, 63.9], "r": 0.7, "kind": "arc", "span": 210, "from": ["centre line"], "start": 253}
+ ],
+ "boxes": [
+  {"mm": [203.8, 195.2, 216.8, 197.3], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [204.0, 179.2, 217.0, 181.4], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [255.2, 173.8, 268.1, 176.0], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [105.8, 171.2, 118.7, 173.4], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [280.7, 161.7, 293.6, 163.9], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [204.5, 157.2, 217.4, 159.3], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [131.3, 155.9, 144.2, 158.0], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [106.0, 155.4, 119.0, 157.6], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [157.2, 150.1, 170.1, 152.2], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [280.9, 145.9, 293.8, 148.1], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [204.7, 141.4, 217.6, 143.6], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [131.5, 140.1, 144.4, 142.3], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [255.8, 136.0, 268.8, 138.2], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [182.7, 134.7, 195.6, 136.9], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [205.1, 113.1, 218.1, 115.3], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [106.7, 111.4, 119.6, 113.6], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [281.5, 108.2, 294.5, 110.3], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [205.3, 97.4, 218.3, 99.5], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [106.9, 95.6, 119.8, 97.8], "w": 13.0, "h": 2.2, "from": "ring"},
+  {"mm": [415.4, 40.8, 420.4, 43.6], "w": 5.0, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [367.2, 39.9, 372.9, 42.7], "w": 5.6, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [361.2, 39.7, 366.8, 42.5], "w": 5.6, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [363.6, 18.4, 420.6, 31.7], "w": 57.0, "h": 13.4, "from": "ring", "words": ["M924/M924A", "POWER SUPPLY", "COVER"]},
+  {"mm": [346.3, 24.4, 363.4, 27.4], "w": 17.1, "h": 3.0, "from": "ring"},
+  {"mm": [378.5, 12.3, 413.0, 19.0], "w": 34.5, "h": 6.7, "from": "ring", "words": ["924-03-003"]},
+  {"mm": [413.2, 13.2, 420.8, 19.0], "w": 7.6, "h": 5.8, "from": "ring"},
+  {"mm": [346.5, 11.7, 355.2, 17.7], "w": 8.6, "h": 6.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [91.1, 248.9, 98.7, 251.1], "text": "0.750 -"},
+   {"mm": [64.6, 150.3, 71.5, 153.6], "text": "4.750"},
+   {"mm": [164.3, 60.7, 175.7, 63.8], "text": "224 REO\"D"},
+   {"mm": [255.0, 62.4, 261.5, 65.8], "text": "RLC\"D"},
+   {"mm": [187.4, 56.1, 195.4, 58.3], "text": "PITCHES"},
+   {"mm": [373.3, 32.6, 417.8, 39.3], "text": "WARD-BECK SYSTEMS"},
+   {"mm": [351.1, 32.6, 367.2, 36.9], "text": "WBS"},
+   {"mm": [241.8, 28.5, 247.9, 30.7], "text": "6.0S0"},
+   {"mm": [345.9, 28.1, 355.6, 30.2], "text": "DR- DRC"},
+   {"mm": [379.1, 26.1, 402.9, 30.4], "text": "M924/M924A"},
+   {"mm": [26.1, 22.9, 35.8, 26.2], "text": "LQES;"},
+   {"mm": [377.6, 22.5, 405.0, 28.0], "text": "POWER SUPPLY"},
+   {"mm": [385.6, 18.6, 397.5, 22.9], "text": "COVER"},
+   {"mm": [54.0, 17.7, 60.0, 19.9], "text": "0,01s,"},
+   {"mm": [58.7, 16.2, 65.8, 18.4], "text": "oy"},
+   {"mm": [382.4, 12.7, 406.8, 17.1], "text": "924-03-003"},
+   {"mm": [37.8, 13.4, 47.5, 15.5], "text": "FAND 120"},
+   {"mm": [37.8, 11.4, 47.5, 13.6], "text": "TFXTLJED"},
+   {"mm": [63.7, 11.9, 69.5, 14.0], "text": "Va"},
+   {"mm": [355.4, 11.7, 370.5, 15.0], "text": "COOE;   924023"}
+  ]
+ },
+ "title_block": {
+  "mm": [342.5, 27.1, 426.4, 44.9],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS", "WBS", "DR- DRC", "M924/M924A"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** mechanical 924-03-003, size B (assumed) 432 × 277 mm, 2000 × 1285 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–430 mm across, 2–276 mm up",
+  "- **Outlines:** line 865 rings, 7,004 straight (21,133 mm) / 1,119 curved (1,449 mm); text 150 rings, 842 straight (801 mm) / 293 curved (379 mm); tb 16 rings, 125 straight (168 mm) / 21 curved (24.4 mm)",
+  "- **Centre lines:** 4,274 paths (347 closed); straight 12,046 mm, curved 47.5 mm; horizontal 7,393 mm, vertical 2,422 mm, diagonal 2,230 mm",
+  "- **Circles and arcs:** 2 circles, 7 arcs; largest r 1.2 @ (375.6, 14.9), r 0.9 @ (76.6, 245.6)",
+  "- **Closed boxes:** 27 (3 in the title block); named: M924/M924A POWER SUPPLY COVER; 924-03-003",
+  "- **Words (OCR):** 20 in 20 lines: 0.750 - · 4.750 · 224 REO\"D · RLC\"D · PITCHES · WARD-BECK SYSTEMS · WBS · 6.0S0 · DR- DRC · M924/M924A · LQES; · POWER SUPPLY",
+  "- **Title block:** (342, 27)–(426, 45) mm: WARD-BECK SYSTEMS · WBS · DR- DRC · M924/M924A"
+ ]
+}
