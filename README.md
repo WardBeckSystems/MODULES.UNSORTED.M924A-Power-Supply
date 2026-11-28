@@ -1,6 +1,6 @@
 # M924A Power Supply · Renaissance
 
-Ward-Beck Systems M924A, 1994|27. Wiki page: [M924A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M924A.html)
+Ward-Beck Systems M924A, 1994|27. Wiki page: [M924A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M924A-Power-Supply/)
 
 | Folder | What is in it | Files |
 |---|---|---|
